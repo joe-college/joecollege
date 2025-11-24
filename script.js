@@ -1,4 +1,5 @@
 // Wait for the document to load before running the script 
+// this is rio. i cant code in java i stole all this from reddit
 (function ($) {
   
   // We use some Javascript and the URL #fragment to hide/show different parts of the page
